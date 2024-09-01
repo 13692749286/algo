@@ -8,13 +8,11 @@ Bellala 的算法竞赛资料。
 
 - 博弈论
 
-ppt/games.html
+[games](ppt/games.html)
 
 # 2. 讲义
 
-目前在洛谷专栏，以后可能会搬过来。
-
-https://www.luogu.com.cn/user/398191#article
+目前在[洛谷专栏](https://www.luogu.com.cn/user/398191#article)，以后可能会搬过来。
 
 # 3. 其它资源
 
