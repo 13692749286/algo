@@ -2,6 +2,9 @@
 
 Bellala 的算法竞赛资料。
 
+https://github.com/wushansinger/algo
+https://www.luogu.com.cn/user/398191#article
+
 ## PPT
 
 多数为 marp for vscode 生成的 html 幻灯片。
@@ -24,8 +27,6 @@ Bellala 的算法竞赛资料。
 ## 讲义
 
 目前在洛谷专栏，以后可能会搬过来。
-
-https://www.luogu.com.cn/user/398191#article
 
 
 
