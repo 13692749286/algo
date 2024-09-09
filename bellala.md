@@ -8,6 +8,8 @@ Bellala 的算法竞赛资料。
 
 - 数学
 
+[基础数论教学体会，20240910集体备课](ppt/基础数论教学体会20240910.html)
+
 [质数、约数、筛法](ppt/prime_factor_sieve.html)
 
 
